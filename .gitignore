@@ -1,0 +1,10 @@
+pre-trained models/*
+dataset/*
+*.pyc
+*.hdf5
+.idea/
+checkpoints/*
+results/*
+/*/*/*.h5
+/Diffusion/cub-model/*
+/Diffusion/flower-model/*
