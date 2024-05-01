@@ -6,5 +6,7 @@ dataset/*
 checkpoints/*
 results/*
 /*/*/*.h5
+/GAN/output/*
+/Diffusion/output
 /Diffusion/cub-model/*
 /Diffusion/flower-model/*
