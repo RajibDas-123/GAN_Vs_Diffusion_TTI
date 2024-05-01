@@ -13,5 +13,5 @@ python train_text_to_image_updated.py \
   --max_train_steps=150 \
   --num_train_epochs=50 \
   --learning_rate=1e-05 \
-  --output_dir="sd-flower-model"
+  --output_dir="flower-model-gp"
 
